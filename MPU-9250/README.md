@@ -1,4 +1,4 @@
-# **MPU-9250/6500 Sensor with TRIOE Board**  
+# **MPU-9250/6500 Sensor**  
 
 This project reads **acceleration, gyroscope, magnetometer, and temperature** data using the **MPU-9250/6500** sensor with a **TRIOE** board.
 
