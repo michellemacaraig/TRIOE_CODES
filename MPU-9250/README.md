@@ -32,4 +32,7 @@ The provided code initializes the **MPU-9250** sensor and retrieves **accelerati
 - Reads data via **I2C communication**.
 - Prints **acceleration (m/s²), gyroscope (°/s), magnetometer (µT), and temperature (°C)** every **500ms**.
 
----
+## **Schematic**
+![Untitled (1920 x 1080 px)](https://github.com/user-attachments/assets/ca53e4dd-471d-41a5-a6b2-4aa85719d836)
+
+
